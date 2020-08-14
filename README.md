@@ -1,2 +1,2 @@
-# UdemyPython1
+# UdemyDatascience
 Exercises of Udemy Data science course
